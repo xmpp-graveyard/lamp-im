@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.08.12 18:45:55.625.pas,C:\Work\jabrel\Components\Jabber\SegaGradients.pas=</Transaction>
+    <Transaction>2007.08.12 18:45:58.281.pas,C:\Work\jabrel\Components\Jabber\SkinForm.pas=</Transaction>
+    <Transaction>2007.08.16 00:34:33.687.pas,C:\Work\jabrel\Components\Jabber\SegaButton.pas=C:\Work\jabrel\Components\Jabber\SkinButton.pas</Transaction>
+    <Transaction>2007.08.16 00:34:38.671.pas,C:\Work\jabrel\Components\Jabber\SegaButtonReg.pas=C:\Work\jabrel\Components\Jabber\SkinButtonReg.pas</Transaction>
+    <Transaction>2007.11.13 23:48:13.562.pas,C:\Work\Jabrel\Components\Jabber\Unicode.pas=</Transaction>
+    <Transaction>2007.11.20 00:42:40.656.pas,C:\Work\Jabrel\Components\Jabber\GmXml.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.07.17 13:55:02.927.pas,C:\Users\NarKoZ\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit1.pas</Transaction>
+    <Transaction>2010.07.17 13:55:02.927.dfm,C:\Users\NarKoZ\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit1.dfm</Transaction>
+    <Transaction>2010.07.17 13:55:04.254.dproj,C:\Users\NarKoZ\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Project1.dproj</Transaction>
+    <Transaction>2010.09.10 21:40:23.151.pas,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit9.pas=C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Popup.pas</Transaction>
+    <Transaction>2010.09.20 21:46:21.279.pas,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit10.pas=</Transaction>
+    <Transaction>2010.09.20 21:46:21.301.dfm,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit10.dfm=</Transaction>
+    <Transaction>2010.09.20 21:46:32.110.pas,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit12.pas=C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit10.pas</Transaction>
+    <Transaction>2010.09.20 21:46:32.110.dfm,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit12.dfm=C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit10.dfm</Transaction>
+    <Transaction>2010.09.28 22:27:28.196.pas,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit12.pas=</Transaction>
+    <Transaction>2011.01.26 23:26:12.530.pas,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit18.pas=</Transaction>
+    <Transaction>2011.01.26 23:26:12.530.dfm,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit18.dfm=</Transaction>
+    <Transaction>2011.02.02 00:23:22.001.pas,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit19.pas=</Transaction>
+    <Transaction>2011.02.02 00:23:22.018.dfm,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit19.dfm=</Transaction>
+    <Transaction>2011.02.02 22:18:37.695.pas,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit13.pas=</Transaction>
+    <Transaction>2011.02.02 22:18:37.695.dfm,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit13.dfm=</Transaction>
+    <Transaction>2011.02.02 22:38:59.318.pas,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit17.pas=</Transaction>
+    <Transaction>2011.02.02 22:38:59.318.dfm,C:\Users\NarKoZ\Documents\RAD Studio\Projects\jabber client\client\Unit17.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
